@@ -486,11 +486,11 @@ body {
   color: var(--main-title-color);
 }
 
-.our-team {
+.our__team {
   background-color: #F5F4FA;
   padding: 94px 0px;
 }
-.our-team-title {
+.our__team-title {
   margin-bottom: 50px;
   font-weight: 700;
   font-size: 36px;
